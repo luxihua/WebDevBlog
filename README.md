@@ -92,9 +92,9 @@ codepresso &copy; [codepresso]
 
 <!-- Stack Icon Refernces -->
 
-[spring]: /rd_images/spring.png
-[Mustache]: /rd_images/mustache.png
-[js]: /rd_images/javascript.png
-[h2]: /rd_images/h2.png
+[spring]: ./rd_images/spring.png
+[Mustache]: ./rd_images/mustache.png
+[js]: ./rd_images/javascript.png
+[h2]: ./rd_images/h2.png
 
 
