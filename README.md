@@ -98,3 +98,4 @@ codepresso &copy; [codepresso]
 [h2]: ./rd_images/h2.png
 
 
+<img src="./rd_images/sample.png">
